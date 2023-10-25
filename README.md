@@ -1,4 +1,5 @@
-### Hi there 👋
+#![image](https://github.com/sergomen/sergomen/assets/18175528/3d7f2c13-bd2d-489f-bbb6-a8bbe825bc58)
+## Hi there 👋
 [![An image of @sergomen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sergomen)](https://holopin.io/@sergomen)
 <!--
 **sergomen/sergomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
