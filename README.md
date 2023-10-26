@@ -1,4 +1,4 @@
-![black-1072366_1280](https://github.com/sergomen/sergomen/assets/18175528/db131534-d320-4264-9564-176782d14272)
+![black-1072366_1280](https://github.com/sergomen/sergomen/assets/18175528/9cf19cce-26a0-48fa-8ffe-3ea83b348ac6)
 ## Hi there 👋
 [![An image of @sergomen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sergomen)](https://holopin.io/@sergomen)
 <!--
