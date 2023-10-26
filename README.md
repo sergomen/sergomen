@@ -6,12 +6,10 @@
 #### I am self taught and started in 2022. I have two degrees not related to programming. But passion won in the end.
 #### I have several goals, one of which is to improve my skills and become a web developer.
 
-
-
-<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sergomen)](https://github.com/sergomen) -->
+<!-- [![sergomen’s github stats](https://github-readme-stats.vercel.app/api?username=sergomen)](https://github.com/sergomen) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergomen&layout=compact)](https://github.com/sergomen) -->
-<img src="https://github-readme-stats.vercel.app/api?username=sergomen" alt="" width="420px" height="auto">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergomen&layout=compact" alt="" width="331px" height="auto">
+<img src="https://github-readme-stats.vercel.app/api?username=sergomen" alt="sergomen’s github stats" width="auto" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergomen&layout=compact" alt="![sergomen’s top langs" width="auto" height="150">
 
 <br><br>
 
